@@ -1,1 +1,2 @@
 # I494
+"Ibrahime Sow is a senior that majors in Informatics with a cognate in cyber security. This past summer he interned at Sallie Mae Bank as an Idenity Access Managment Intern. He is involved on campus, being apart of student organozations that help community." 
